@@ -16,7 +16,7 @@ and provides anchors (added where needed).
 
 2. Add a *code* cell anywhere in the notebook with the following
 
-	2.1. For a ToC with roman numbers numeration (original from kmahelona)
+	2.1. For a ToC with roman numbers index (original from kmahelona)
 	```
 	%%javascript
 	$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
@@ -31,4 +31,4 @@ and provides anchors (added where needed).
 
 
 # Changelog
-> 2017/01/18 - Added a new version that creates the ToC without the roman index number. Useful in case you add the number manually to differenciate two anchors.
+> 2017/01/18 - Added a new version that creates the ToC without the roman index number. Useful in case you add the number manually to differenciate two anchors with the same name.
