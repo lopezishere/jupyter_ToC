@@ -1,5 +1,5 @@
-Jupyter Notebook Table of Content
-=================================
+Jupyter Notebook Table of Contents
+==================================
 
 Original code taken from [kmahelona](https://github.com/kmahelona/ipython_notebook_goodies)
 
@@ -26,7 +26,7 @@ and provides anchors (added where needed).
 
 	```
 	%%javascript
-	$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+	$.getScript('https://lopezishere.github.io/jupyter_ToC/jupyter_ToC.js')
 	```
 
 
