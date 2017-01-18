@@ -17,18 +17,18 @@ and provides anchors (added where needed).
 2. Add a *code* cell anywhere in the notebook with the following
 
 	2.1. For a ToC with roman numbers numeration (original from kmahelona)
-```
-%%javascript
-$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
-```
+	```
+	%%javascript
+	$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+	```
 
 	2.2. For a ToC without any index number automatic generation
-```
-%%javascript
-$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
-```
+
+	```
+	%%javascript
+	$.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
+	```
 
 
 # Changelog
-> Added a new version that creates the ToC without the roman index number. Useful in case you add the number manually to differenciate two anchors.
-ipython_notebook_toc_noIndex.js
+> 2017/01/18 - Added a new version that creates the ToC without the roman index number. Useful in case you add the number manually to differenciate two anchors.
