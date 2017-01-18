@@ -1,10 +1,7 @@
-ipython_notebook_goodies
-========================
+Jupyter Notebook Table of Content
+=================================
 
 Original code taken from [kmahelona](https://github.com/kmahelona/ipython_notebook_goodies)
-
-1. Table of Contents
---------------------
 
 Make a table of contents for your notebook. Uses headings (e.g. H1, H2, etc.) to build TOC, 
 and provides anchors (added where needed).
@@ -19,13 +16,13 @@ and provides anchors (added where needed).
 
 2. Add a *code* cell anywhere in the notebook with the following
 
-2.1. For a ToC with roman numbers numeration (original from kmahelona)
+	2.1. For a ToC with roman numbers numeration (original from kmahelona)
 ```
 %%javascript
 $.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
 ```
 
-2.1. For a ToC without any index number automatic generation
+	2.2. For a ToC without any index number automatic generation
 ```
 %%javascript
 $.getScript('https://kmahelona.github.io/ipython_notebook_goodies/ipython_notebook_toc.js')
